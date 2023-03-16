@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayushkumar-mnnit
-- 👀 I’m interested in programming and development
-- 🌱 I’m currently learning DSA and Web development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, Ayush Kumar this side.
+- 👀 Keenly interested in programming and development
+- 🌱 Learning DSA and Web development
+- 💞️ Looking to collaborate on Web development projects 
 
 
 <!---
