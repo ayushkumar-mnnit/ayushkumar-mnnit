@@ -2,7 +2,6 @@
 - 👀 Keenly interested in programming and development
 - 🌱 DSA and Web development
 - 💞️ Looking to collaborate on Web development projects and open to software job roles
-- 
 
 
 <!---
