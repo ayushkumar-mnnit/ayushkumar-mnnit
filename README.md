@@ -1,7 +1,8 @@
 - 👋 Hi, Ayush Kumar this side.
 - 👀 Keenly interested in programming and development
-- 🌱 Learning DSA and Web development
-- 💞️ Looking to collaborate on Web development projects 
+- 🌱 DSA and Web development
+- 💞️ Looking to collaborate on Web development projects and open to software job roles
+- 
 
 
 <!---
